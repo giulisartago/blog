@@ -4,19 +4,42 @@ date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+# Titolo 1
+## Titolo 2
+### Titolo 3
+#### Titolo 4
+##### Titolo 5
+###### Titolo 6
 
-I'm sure I'll write a lot more interesting things in the future.
+```
+C    Em  Am       F     C    G
+Wise men say only fools rush in
+    F  G     Am   F         C    G7   C
+But I can't help falling in love with you
+C     Em   Am            F  C  G
+Shall  I  stay? Would it be a sin  
+   F  G     Am   F          C    G7   C
+If I can't help falling in love with you
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Em            B7     Em           B7
+Like a river flows, surely to the sea
+Em             B7     Em7         A7               Dm7  G7
+Darling, so it goes, some things      are meant to be
+C    Em  Am            F     C     G
+Take my hand, take my whole life, too
+      F   G    Am   F          C    G7   C
+Cause I can't help falling in love with you
 
-![Chinese Salty Egg](./salty_egg.jpg)
+
+Em            B7     Em           B7
+Like a river flows, surely to the sea
+Em             B7     Em7         A7               Dm7  G7
+Darling, so it goes, some things      are meant to be
+C    Em  Am            F     C     G
+Take my hand, take my whole life, too
+      F   G    Am   F          C    G7   C
+Cause I can't help falling in love with you
+      F   G    Am   F          C    G7   C
+Cause I can't help falling in love with you
+```
